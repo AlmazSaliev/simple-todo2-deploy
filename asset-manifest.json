@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-todo2-deploy/static/css/main.40c9250e.css",
+    "main.js": "/simple-todo2-deploy/static/js/main.1aa5ecc2.js",
+    "index.html": "/simple-todo2-deploy/index.html",
+    "main.40c9250e.css.map": "/simple-todo2-deploy/static/css/main.40c9250e.css.map",
+    "main.1aa5ecc2.js.map": "/simple-todo2-deploy/static/js/main.1aa5ecc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40c9250e.css",
+    "static/js/main.1aa5ecc2.js"
+  ]
+}
